@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surendra Tomar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendratomar&label=Profile%20views&color=0e75b6&style=flat" alt="surendratomar" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/surendratomar" target="blank"><img src="https://img.shields.io/twitter/follow/surendratomar?logo=twitter&style=for-the-badge" alt="surendratomar" /></a> </p>
 
-- 🔭 I’m currently working on **Blood Bank system**
+- 🔭 I’m currently working on **Google Scholar Paper Publication On IEEE **
 
-- 🌱 I’m currently learning **Hadoop Environment**
+- 🌱 I’m currently learning **Reacts**
 
 - 🤝 I’m looking for help with **Music Player Using java script**
 
 - 📝 I regularly write articles on [Reading articale](Reading articale)
 
-- 📫 How to reach me **surendra.tomar_cs19@gla.ac.in**
+- 📫 How to reach me **tomar123surendra@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
